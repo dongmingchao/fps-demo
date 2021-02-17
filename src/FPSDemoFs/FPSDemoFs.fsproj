@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>FPSDemo</RootNamespace>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Reference Include="GodotSharp">
+      <HintPath>..\..\.mono\assemblies\Release\GodotSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Compile Include="GodotUtils.fs" />
+    <Compile Include="Bullet.fs" />
+    <Compile Include="Player.fs" />
+  </ItemGroup>
+
+</Project>

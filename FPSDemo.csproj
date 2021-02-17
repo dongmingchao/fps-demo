@@ -1,0 +1,16 @@
+﻿<Project Sdk="Godot.NET.Sdk/3.2.3">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="src\Library" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="src\FPSDemoFs\FPSDemoFs.fsproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FPSBasic.gd" />
+    <Content Include="FPSBasic.tscn" />
+    <Content Include="ReadMe.md" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\bin\Debug\net5.0\FPSDemoFs.deps.json
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\bin\Debug\net5.0\FPSDemoFs.dll
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\bin\Debug\net5.0\FPSDemoFs.pdb
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\bin\Debug\net5.0\GodotSharp.dll
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\bin\Debug\net5.0\GodotSharp.pdb
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\bin\Debug\net5.0\GodotSharp.xml
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\obj\Debug\net5.0\FPSDemoFs.fsprojAssemblyReference.cache
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\obj\Debug\net5.0\FPSDemoFs.AssemblyInfoInputs.cache
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\obj\Debug\net5.0\FPSDemoFs.AssemblyInfo.fs
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\obj\Debug\net5.0\FPSDemoFs.fsproj.CopyComplete
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\obj\Debug\net5.0\FPSDemoFs.dll
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\obj\Debug\net5.0\FPSDemoFs.pdb
+D:\Documents\GodotProjects\FPSDemo\src\FPSDemoFs\bin\Debug\net5.0\FSharp.Core.xml

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3eUMHfQdoS1CmgaBeCymIqjvuh6u8UaWS2R4p6mdi5x1z7xUJ8Nf1WXDgj3TLHKc3Y3GJOPrOpi+xcvNfntTMg==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemoFs\\FPSDemoFs.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmc\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

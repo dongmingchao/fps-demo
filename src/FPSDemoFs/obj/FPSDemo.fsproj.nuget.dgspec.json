@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemo\\FPSDemo.fsproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemo\\FPSDemo.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemo\\FPSDemo.fsproj",
+        "projectName": "FPSDemo",
+        "projectPath": "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemo\\FPSDemo.fsproj",
+        "packagesPath": "C:\\Users\\dmc\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dmc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.1, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemoFs\\FPSDemoFs.fsproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemoFs\\FPSDemoFs.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemoFs\\FPSDemoFs.fsproj",
+        "projectName": "FPSDemoFs",
+        "projectPath": "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemoFs\\FPSDemoFs.fsproj",
+        "packagesPath": "C:\\Users\\dmc\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GodotProjects\\FPSDemo\\src\\FPSDemoFs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dmc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\dmc\\.dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
